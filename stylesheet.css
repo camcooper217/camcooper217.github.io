@@ -84,10 +84,10 @@ section h3 {
 
 /* About me section */
 .about-me p {
-    text-align: center;
     font-size: 1.1rem;
     line-height: 1.8;
     color: #555;
+    text-align: center;
 }
 
 /* Skills section */
